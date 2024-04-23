@@ -1,0 +1,22 @@
+Reference:- https://oshinewptheme.com/v9/
+
+Color:-
+
+primary-color: #D80808;
+secondary-color: #444444;
+text-primary-color: #2293D7;
+text-secondary-color: #f5f5f5;
+text-head-color: #222222;
+text-head-color-2: #363c3b;
+text-head-color-3: #DFDFDF;
+text-content-color: #80808;
+text-content-color-2: #444444;
+text-content-color-3: #7A7A7A;
+text-content-color-4: #A2A2A2;
+text-content-color-5: #CACACA;
+
+Font-Family:-
+
+primary-font: "Open Sans","Open Sans","Arial",sans-serif;
+
+
